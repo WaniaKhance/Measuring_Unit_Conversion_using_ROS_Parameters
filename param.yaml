@@ -1,0 +1,11 @@
+converter: 0.235
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_wania_virtualbox__39513: http://wania-VirtualBox:39513/
+rosversion: '1.15.9
+
+  '
+run_id: 57dd3740-a68d-11eb-93c2-a3ae547a1d97
